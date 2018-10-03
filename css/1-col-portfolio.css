@@ -6,7 +6,6 @@
 
 body {
   padding-top: 54px;
-  font-family: Roboto, arial, sans-serif;
 }
 
 @media (min-width: 992px) {
@@ -20,7 +19,4 @@ h1, body, footer, p{
 .container{
 	padding-top:20%;
 	height:500px;
-}
-.bg-dark{
-	background-color: #000!important;
 }
